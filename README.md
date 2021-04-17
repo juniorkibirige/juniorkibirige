@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Farmer's System
 - 🌱 I’m currently learning Computer at Makerere University
 - 💬 Ask me about [Engineer Bainomugisha](mailto:baino@mak.ac.ug)
-- 📫 How to reach me: [AIRTEL UG](tel:+256705568794) or [MTN UG](tel:+256789334002) or [Africell UG](tel:+256791156724)
+- 📫 How to reach me: [jlkibirige@cis.mak.ac.ug](mailto:jlkibirige@cis.mak.ac.ug) [AIRTEL UG: +256705568794](url=tel:+256705568794) or [MTN UG: +256789334002](tel:+256789334002) or [Africell UG: +256791156724](tel:+256791156724)
 - 😄 Pronouns: he/his
 
 My Stats are below:
