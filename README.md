@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about [Engineer Bainomugisha](mailto:baino@mak.ac.ug)
 - 📫 How to reach me: [+256705568794](tel:+256705568794) or [+256789334002](tel:+256789334002)
 - 😄 Pronouns: he/his
+My Stats are below:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
