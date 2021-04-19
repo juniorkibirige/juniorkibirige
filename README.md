@@ -25,6 +25,9 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python   2 hrs 4 mins    █████████████░░░░░░░░░░░░   52.14 % 
+Dart     1 hr 35 mins    ██████████░░░░░░░░░░░░░░░   40.29 % 
+Text     16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+Other    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
