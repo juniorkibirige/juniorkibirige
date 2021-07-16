@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/his
 
 My Stats are below:
+[![wakatime](https://wakatime.com/badge/github/juniorkibirige/juniorkibirige.svg)](https://wakatime.com/badge/github/juniorkibirige/juniorkibirige)
 
 <!--START_SECTION:waka-->
 ```text
