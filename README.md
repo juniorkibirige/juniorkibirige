@@ -25,10 +25,10 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   11 hrs 6 mins   █████████▓░░░░░░░░░░░░░░░   38.33 % 
-Dart         8 hrs 31 mins   ███████▒░░░░░░░░░░░░░░░░░   29.44 % 
-PHP          3 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Python       2 hrs 6 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
-JSX          1 hr 56 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+JavaScript   13 hrs 45 mins  ███████████▒░░░░░░░░░░░░░   45.40 % 
+PHP          5 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Dart         4 hrs 32 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+JSX          2 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
+Python       2 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
 ```
 <!--END_SECTION:waka-->
