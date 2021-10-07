@@ -25,10 +25,6 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-Dart         5 hrs 8 mins    ██████████████▓░░░░░░░░░░   59.17 % 
-JavaScript   2 hrs 21 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.10 % 
-PHP          29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-YAML         18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-Groovy       11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
