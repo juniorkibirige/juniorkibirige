@@ -25,6 +25,10 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C            55 mins         ███████▓░░░░░░░░░░░░░░░░░   30.45 % 
+JavaScript   42 mins         ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+PHP          32 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.54 % 
+Other        19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+YAML         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 ```
 <!--END_SECTION:waka-->
