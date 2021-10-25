@@ -25,10 +25,6 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-Blade Template   1 hr 41 mins    █████████░░░░░░░░░░░░░░░░   36.59 % 
-Dart             57 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.80 % 
-SCSS             40 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.66 % 
-PHP              28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 % 
-JavaScript       27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Dart   57 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
