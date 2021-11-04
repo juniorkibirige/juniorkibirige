@@ -25,6 +25,10 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+C          1 hr 25 mins    ██████████████▓░░░░░░░░░░   59.00 % 
+C++        24 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Dart       17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Makefile   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Java       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 ```
 <!--END_SECTION:waka-->
