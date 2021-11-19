@@ -25,7 +25,6 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-C          1 hr 41 mins    ████████████████████████▒   96.70 % 
-Makefile   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
