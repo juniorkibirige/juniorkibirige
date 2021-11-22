@@ -25,6 +25,10 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Markdown     7 mins          █████████▓░░░░░░░░░░░░░░░   39.31 % 
+Vue.js       4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.92 % 
+TypeScript   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+JSON         2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+JavaScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
 ```
 <!--END_SECTION:waka-->
