@@ -25,10 +25,10 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-Markdown     7 mins          █████████▓░░░░░░░░░░░░░░░   39.31 % 
-Vue.js       4 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.92 % 
-TypeScript   2 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-JSON         2 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
-JavaScript   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
+Vue.js       3 hrs 39 mins   █████████████████▒░░░░░░░   69.15 % 
+JavaScript   52 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+TypeScript   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+JSON         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Markdown     7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
 ```
 <!--END_SECTION:waka-->
