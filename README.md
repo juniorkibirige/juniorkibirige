@@ -25,6 +25,7 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js       35 mins         ███████████████████████░░   92.29 % 
+JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 ```
 <!--END_SECTION:waka-->
