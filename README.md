@@ -25,7 +25,8 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       35 mins         ███████████████████████░░   92.29 % 
-JavaScript   2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Vue.js       35 mins         ██████████████████▓░░░░░░   74.08 % 
+Python       9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+JavaScript   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
 ```
 <!--END_SECTION:waka-->
