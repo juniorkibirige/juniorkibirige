@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Farmer's System
 - 🌱 I’m currently learning Computer Science at Makerere University
 - 💬 Ask about me [Engineer Bainomugisha](mailto:baino@mak.ac.ug)
 - 📫 How to reach me: [jlkibirige@cis.mak.ac.ug](mailto:jlkibirige@cis.mak.ac.ug) [AIRTEL UG: +256705568794](tel:+256705568794) or [MTN UG: +256789334002](tel:+256789334002) or [Africell UG: +256791156724](tel:+256791156724)
