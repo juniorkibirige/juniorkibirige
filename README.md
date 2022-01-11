@@ -24,6 +24,7 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+GitIgnore file   5 mins          ██████████████████░░░░░░░   71.49 % 
+XML              2 mins          ███████░░░░░░░░░░░░░░░░░░   27.80 % 
 ```
 <!--END_SECTION:waka-->
