@@ -24,7 +24,6 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-GitIgnore file   5 mins          ██████████████████░░░░░░░   71.50 % 
-XML              2 mins          ███████░░░░░░░░░░░░░░░░░░   27.79 % 
+
 ```
 <!--END_SECTION:waka-->
