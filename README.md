@@ -24,6 +24,10 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Java     32 mins         ███████████░░░░░░░░░░░░░░   43.76 % 
+Groovy   21 mins         ███████▒░░░░░░░░░░░░░░░░░   28.96 % 
+Docker   14 mins         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+XML      3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+HTML     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 <!--END_SECTION:waka-->
