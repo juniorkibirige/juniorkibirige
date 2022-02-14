@@ -24,10 +24,10 @@ My Stats are below:
 
 <!--START_SECTION:waka-->
 ```text
-Vue.js       27 hrs 51 mins  ███████████▓░░░░░░░░░░░░░   47.22 % 
-PHP          20 hrs 43 mins  ████████▓░░░░░░░░░░░░░░░░   35.11 % 
-JavaScript   4 hrs 38 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
-textmate     1 hr 45 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
-HTML         1 hr 41 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+Vue.js       27 hrs 46 mins  ████████████▒░░░░░░░░░░░░   49.69 % 
+PHP          15 hrs 20 mins  ███████░░░░░░░░░░░░░░░░░░   27.45 % 
+JavaScript   4 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Dart         3 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+HTML         1 hr 41 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 ```
 <!--END_SECTION:waka-->
