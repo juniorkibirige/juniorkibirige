@@ -23,11 +23,14 @@ Here are some ideas to get you started:
 My Stats are below:
 
 <!--START_SECTION:waka-->
+
 ```text
-Dart             40 hrs 42 mins  ████████████████▒░░░░░░░░   64.73 % 
-Kotlin           19 hrs 16 mins  ███████▓░░░░░░░░░░░░░░░░░   30.64 % 
-Groovy           43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
-XML              32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-GitIgnore file   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Dart             27 hrs 45 mins  █████████████░░░░░░░░░░░░   51.63 %
+Kotlin           21 hrs 28 mins  ██████████░░░░░░░░░░░░░░░   39.92 %
+XML              56 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Groovy           48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
+Vue.js           35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+GitIgnore file   30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
+
 <!--END_SECTION:waka-->
