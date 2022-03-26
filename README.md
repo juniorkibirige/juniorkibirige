@@ -25,9 +25,9 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```text
-Dart             21 hrs 1 min    ████████████████████░░░░░   79.97 %
-PHP              2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
-Other            1 hr 27 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.57 %
+Dart             18 hrs 11 mins  ███████████████████▓░░░░░   78.27 %
+PHP              2 hrs 1 min     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Other            1 hr 27 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 ```
 
 <!--END_SECTION:waka-->
