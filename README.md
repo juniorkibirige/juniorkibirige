@@ -25,12 +25,12 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```text
-Dart             4 hrs 50 mins   ███████▒░░░░░░░░░░░░░░░░░   28.83 %
-PHP              4 hrs 33 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.08 %
-JavaScript       2 hrs 30 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
-Kotlin           1 hr 54 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.35 %
-Blade Template   1 hr 6 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-YAML             39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
+PHP              5 hrs 48 mins   ███████▓░░░░░░░░░░░░░░░░░   30.23 %
+Dart             4 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.24 %
+JavaScript       2 hrs 29 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.97 %
+Kotlin           1 hr 54 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+Blade Template   1 hr 6 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+CSS              41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->
