@@ -3,8 +3,8 @@
 <p align="center" style="border-radius:50%;width:250px;height:250px;">
   <img src="https://i.imgur.com/ejnkrvQ.png" 
        alt="Profile picture from Twitter" /></br>
-  <span align="center">Junior Lawrence Kibirige</span><br/>
-  <small align="center" font-size="15">Bsc. Computer Science Student</small>
+  <div align="center">Junior Lawrence Kibirige</div><br/>
+  <div align="center" font-size="15">Bsc. Computer Science Student</div>
 </p>
 
 - 🔭 I’m currently working on an ecommerce system for [Asanty Inc](https://asanty.africa) and [Tukole](https://app.tukole.ug).
