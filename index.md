@@ -1,7 +1,7 @@
 ### Hi there 👋 
 # Welcome to Junior Lawrence Kibirge's Profile ✨
 <p align="center" style="border-radius:50%;width:250px;height:250px;">
-  <img src="https://github.com/juniorkibirige/juniorkibirige/blob/main/cropped-twitter-pp.png" 
+  <img src="https://github.com/juniorkibirige/juniorkibirige/blob/main/cropped-twitter-pp.png?raw=true" 
        alt="Profile picture from Twitter" /></br>
   <span align="center">Junior Lawrence Kibirige</span><br/>
   <small align="center" font-size="15">Bsc. Computer Science Student</small>
