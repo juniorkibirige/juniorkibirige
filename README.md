@@ -19,12 +19,12 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```text
-PHP              3 hrs 39 mins   ████████████▒░░░░░░░░░░░░   48.74 %
-JavaScript       2 hrs 54 mins   █████████▓░░░░░░░░░░░░░░░   38.76 %
-Blade Template   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
-TypeScript       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
-HTML             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+JavaScript       2 hrs 54 mins   ███████████▒░░░░░░░░░░░░░   45.78 %
+PHP              2 hrs 17 mins   █████████░░░░░░░░░░░░░░░░   36.12 %
+Blade Template   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
+TypeScript       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
+JSON             14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+HTML             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
 ```
 
 <!--END_SECTION:waka-->
