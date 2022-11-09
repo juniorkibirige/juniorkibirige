@@ -19,12 +19,12 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           1 hr 35 mins    ███████████░░░░░░░░░░░░░░   44.50 %
-PHP              1 hr 25 mins    ██████████░░░░░░░░░░░░░░░   39.87 %
-Blade Template   21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-Markdown         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
-Groovy           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Kotlin           3 hrs 6 mins    █████████████▓░░░░░░░░░░░   55.15 %
+PHP              1 hr 25 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
+Blade Template   21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
+Dart             16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Markdown         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+GitIgnore file   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 ```
 
 <!--END_SECTION:waka-->
