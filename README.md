@@ -19,12 +19,12 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```text
-Kotlin           3 hrs 6 mins    ████████████████▓░░░░░░░░   67.24 %
-Dart             34 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
-textmate         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.99 %
-ObjectiveC       12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
-Markdown         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
-GitIgnore file   11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+Kotlin           1 hr 30 mins    ████████████▓░░░░░░░░░░░░   50.71 %
+Dart             42 mins         ██████░░░░░░░░░░░░░░░░░░░   23.97 %
+textmate         13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+ObjectiveC       12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
+GitIgnore file   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
+Markdown         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
 ```
 
 <!--END_SECTION:waka-->
