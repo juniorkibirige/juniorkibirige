@@ -28,3 +28,8 @@ SCSS             0 secs          ░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=juniorkibirige&show_icons=true&locale=en&layout=compact" alt="juniorkibirige" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juniorkibirige&show_icons=true&locale=en" alt="juniorkibirige" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juniorkibirige&" alt="juniorkibirige" /></p>
