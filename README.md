@@ -19,7 +19,11 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP              3 hrs 30 mins   ████████████████████▒░░░░   81.37 %
+Log              21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
+Blade Template   20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
+Bash             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
