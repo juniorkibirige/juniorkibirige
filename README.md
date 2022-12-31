@@ -19,9 +19,7 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```text
-PHP         1 hr 8 mins     █████████████████████░░░░   84.13 %
-.env file   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
-JSON        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
