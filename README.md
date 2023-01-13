@@ -19,10 +19,7 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```text
-PHP          3 hrs 2 mins    ████████████████████████▒   96.76 %
-Vue.js       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Log          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+PHP   48 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
