@@ -19,12 +19,11 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript     4 hrs 9 mins    █████████████████████████   99.68 %
-JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-.env file      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+JavaScript     3 hrs           █████████████████████████   99.84 %
+Shell Script   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Bash           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 SourceMap      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+JSON           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
