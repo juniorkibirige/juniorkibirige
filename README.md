@@ -19,12 +19,7 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```text
-PHP          1 hr            ██████████████████████▒░░   89.08 %
-Markdown     6 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.10 %
-CSS          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
