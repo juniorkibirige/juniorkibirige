@@ -19,7 +19,12 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+PHP              1 hr 20 mins    ███████████▓░░░░░░░░░░░░░   46.72 %
+Dart             1 hr 5 mins     █████████▒░░░░░░░░░░░░░░░   37.66 %
+Vue.js           20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 %
+textmate         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Python           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+JavaScript       1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
