@@ -19,11 +19,11 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart             10 hrs 33 mins  ████████░░░░░░░░░░░░░░░░░   32.30 %
-Vue.js           7 hrs 10 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.91 %
-PHP              6 hrs 38 mins   █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-JavaScript       2 hrs 47 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-Blade Template   1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Dart             8 hrs 8 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.80 %
+Vue.js           7 hrs 18 mins   ██████░░░░░░░░░░░░░░░░░░░   24.01 %
+PHP              6 hrs 50 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.48 %
+JavaScript       2 hrs 47 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
+Blade Template   1 hr 59 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
 ```
 
 <!--END_SECTION:waka-->
