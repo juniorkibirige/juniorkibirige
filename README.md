@@ -19,11 +19,11 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart              10 hrs 29 mins  █████████████▒░░░░░░░░░░░   53.68 %
-JavaScript        3 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.68 %
-PHP               2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-YAML              1 hr 10 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
-Groovy            1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Dart              10 hrs 29 mins  ████████████▓░░░░░░░░░░░░   50.06 %
+JavaScript        4 hrs 14 mins   █████░░░░░░░░░░░░░░░░░░░░   20.24 %
+PHP               2 hrs 36 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
+YAML              1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Groovy            1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
 ```
 
 <!--END_SECTION:waka-->
