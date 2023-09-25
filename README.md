@@ -19,11 +19,11 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP               2 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   32.93 %
-Bash              2 hrs 34 mins   ███████▒░░░░░░░░░░░░░░░░░   29.71 %
-JavaScript        1 hr 56 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.36 %
-YAML              53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
-Java Properties   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Bash              2 hrs 27 mins   ███████████████▒░░░░░░░░░   61.56 %
+YAML              46 mins         █████░░░░░░░░░░░░░░░░░░░░   19.59 %
+Java Properties   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Blade Template    12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 %
+JSON              9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 ```
 
 <!--END_SECTION:waka-->
