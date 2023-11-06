@@ -19,9 +19,10 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          2 hrs 23 mins   █████████████████████░░░░   84.14 %
-JavaScript   26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+PHP          3 hrs 13 mins   ████████████████████░░░░░   80.37 %
+JavaScript   46 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
+textmate     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
