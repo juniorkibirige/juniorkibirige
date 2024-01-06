@@ -19,7 +19,11 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP              4 hrs 24 mins   ██████████░░░░░░░░░░░░░░░   39.41 %
+Vue.js           2 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   23.73 %
+Dart             1 hr 46 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.95 %
+JavaScript       1 hr 19 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.82 %
+Bash             20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 %
 ```
 
 <!--END_SECTION:waka-->
