@@ -19,8 +19,8 @@ My Stats are below:
 <!--START_SECTION:waka-->
 
 ```txt
-Dart   3 hrs 12 mins   ██████████████████████░░░   87.48 %
-YAML   27 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Dart   2 hrs 33 mins   █████████████████████▒░░░   84.78 %
+YAML   27 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.22 %
 ```
 
 <!--END_SECTION:waka-->
