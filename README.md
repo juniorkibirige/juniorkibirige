@@ -17,7 +17,7 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C589%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C589%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -98,7 +98,7 @@ Python                   5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2024 01:33:11 UTC
+ Last Updated on 01/09/2024 01:54:11 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
