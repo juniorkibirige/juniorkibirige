@@ -17,13 +17,15 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C670%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C670%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
+ > 
+> 🏆 166 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -96,7 +98,7 @@ HTML                     2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 19/10/2024 01:41:31 UTC
+ Last Updated on 20/10/2024 01:56:02 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
