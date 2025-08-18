@@ -25,6 +25,8 @@ My Stats are below:
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
+> 🏆 412 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 74 Public Repositories 
@@ -96,7 +98,7 @@ CSS                      6 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2025 00:51:11 UTC
+ Last Updated on 18/08/2025 00:46:29 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
