@@ -17,6 +17,8 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C617%20hrs%2038%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -31,6 +33,45 @@ My Stats are below:
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                5412 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
+🌆 Daytime                14389 commits       ███████████░░░░░░░░░░░░░░   42.66 % 
+🌃 Evening                8498 commits        ██████░░░░░░░░░░░░░░░░░░░   25.19 % 
+🌙 Night                  5432 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   6489 commits        █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Tuesday                  4375 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Wednesday                3868 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Thursday                 4774 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Friday                   3658 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+Saturday                 4847 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Sunday                   5720 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Kampala
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -48,7 +89,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 04/01/2026 00:49:51 UTC
+ Last Updated on 05/01/2026 00:50:11 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
