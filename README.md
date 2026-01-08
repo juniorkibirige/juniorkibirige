@@ -17,7 +17,7 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C617%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C619%20hrs%2023%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -60,16 +60,22 @@ Sunday                   5720 commits        ████░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     1 hr 26 mins        ████████████████████░░░░░   81.70 % 
+PHP                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
+YAML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Java                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 37 mins        ███████████████████████░░   92.85 % 
+PhpStorm                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+fc-app-flutter           1 hr 37 mins        ███████████████████████░░   92.85 % 
+fc-api                   7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 45 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -89,7 +95,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2026 00:52:37 UTC
+ Last Updated on 08/01/2026 00:47:49 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
