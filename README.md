@@ -31,53 +31,6 @@ My Stats are below:
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                7664 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-🌆 Daytime                19516 commits       █████████░░░░░░░░░░░░░░░░   37.64 % 
-🌃 Evening                16833 commits       ████████░░░░░░░░░░░░░░░░░   32.47 % 
-🌙 Night                  7836 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   8886 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Tuesday                  8327 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Wednesday                8147 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Thursday                 7442 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-Friday                   6493 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
-Saturday                 6158 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
-Sunday                   6396 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Kampala
-
-💬 Programming Languages: 
-PHP                      5 hrs 37 mins       ████████████░░░░░░░░░░░░░   47.60 % 
-Other                    2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.42 % 
-Dart                     1 hr 27 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-TypeScript               36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Bash                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-
-🔥 Editors: 
-VS Code                  11 hrs 49 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-fc-api                   4 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   34.90 % 
-backend-v2               2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-fc-docker-dev            2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
-fc-app-flutter           1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
-greenchain-admin-frontend38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
-
-💻 Operating System: 
-Mac                      11 hrs 49 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -95,7 +48,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 03:09:28 UTC
+ Last Updated on 25/07/2026 03:09:36 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
