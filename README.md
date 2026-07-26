@@ -17,13 +17,15 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C969%20hrs%2049%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 513 Contributions in the Year 2026
+> 🏆 516 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -31,6 +33,53 @@ My Stats are below:
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                7664 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+🌆 Daytime                19519 commits       █████████░░░░░░░░░░░░░░░░   37.64 % 
+🌃 Evening                16833 commits       ████████░░░░░░░░░░░░░░░░░   32.46 % 
+🌙 Night                  7836 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   8886 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+Tuesday                  8327 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Wednesday                8147 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Thursday                 7442 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Friday                   6493 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.52 % 
+Saturday                 6161 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Sunday                   6396 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Kampala
+
+💬 Programming Languages: 
+PHP                      6 hrs 16 mins       ████████████░░░░░░░░░░░░░   47.29 % 
+Other                    3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+Markdown                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Dart                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Bash                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.44 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 15 mins      █████████████████████████   100.00 % 
+
+🐱‍💻 Projects: 
+backend-v2               5 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.22 % 
+GreenChain Dev           1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+fc-api                   1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+fc-app-flutter           1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
+fc-docker-dev            1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 % 
+
+💻 Operating System: 
+Mac                      13 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -48,7 +97,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 03:09:36 UTC
+ Last Updated on 26/07/2026 03:15:29 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
