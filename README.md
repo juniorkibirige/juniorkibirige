@@ -17,7 +17,9 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C975%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C902%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-156%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -25,7 +27,7 @@ My Stats are below:
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 524 Contributions in the Year 2026
+> 🏆 567 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,21 +38,21 @@ My Stats are below:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7564 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-🌆 Daytime                19243 commits       █████████░░░░░░░░░░░░░░░░   37.51 % 
-🌃 Evening                16744 commits       ████████░░░░░░░░░░░░░░░░░   32.64 % 
-🌙 Night                  7752 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+🌞 Morning                7611 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+🌆 Daytime                19347 commits       █████████░░░░░░░░░░░░░░░░   37.44 % 
+🌃 Evening                16892 commits       ████████░░░░░░░░░░░░░░░░░   32.69 % 
+🌙 Night                  7821 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   8815 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.18 % 
-Tuesday                  8244 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
-Wednesday                8053 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Thursday                 7355 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Friday                   6428 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Saturday                 6114 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
-Sunday                   6294 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.27 % 
+Monday                   8910 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Tuesday                  8325 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+Wednesday                8141 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Thursday                 7392 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Friday                   6476 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+Saturday                 6131 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Sunday                   6296 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
 ```
 
 
@@ -80,6 +82,28 @@ fc-docker-dev            1 hr 2 mins         ██░░░░░░░░░�
 Mac                      13 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 56 mins (75.18%)
+
+✍️ 10,738 lines written by AI, 225 lines written by hand (97.95% AI-written)
+
+🔤 171,889,098 Input Tokens, 575,182 Output Tokens
+
+💵 $930.51 Estimated AI Cost This Week
+
+🧠 23 AI Sessions, 163 AI Prompts
+
+GPT                      11,865 lines        █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.95% of written lines came from AI
+📚 Verbose Prompter — average 6,775 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🔍 Hands-On Reviewer — 89.45% of changed lines were hand-edited
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -97,7 +121,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2026 03:46:23 UTC
+ Last Updated on 28/07/2026 03:04:06 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
