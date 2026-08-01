@@ -17,9 +17,9 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C914%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C915%20hrs%2037%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-170%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%206%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -38,21 +38,21 @@ My Stats are below:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                7821 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
-🌆 Daytime                19760 commits       █████████░░░░░░░░░░░░░░░░   37.24 % 
-🌃 Evening                17506 commits       ████████░░░░░░░░░░░░░░░░░   32.99 % 
-🌙 Night                  7980 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+🌞 Morning                7927 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+🌆 Daytime                20072 commits       █████████░░░░░░░░░░░░░░░░   37.35 % 
+🌃 Evening                17660 commits       ████████░░░░░░░░░░░░░░░░░   32.86 % 
+🌙 Night                  8076 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   9095 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-Tuesday                  8664 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
-Wednesday                8517 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Thursday                 7592 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
-Friday                   6681 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Saturday                 6209 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Sunday                   6309 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Monday                   9178 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Tuesday                  8765 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Wednesday                8654 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Thursday                 7708 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Friday                   6748 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Saturday                 6267 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Sunday                   6415 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
 ```
 
 
@@ -62,47 +62,47 @@ Sunday                   6309 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-PHP                      7 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.36 % 
-Other                    5 hrs 55 mins       ██████░░░░░░░░░░░░░░░░░░░   25.02 % 
-Dart                     2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Markdown                 1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-TypeScript               1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+PHP                      7 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.48 % 
+Other                    6 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
+Dart                     3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+TypeScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  24 hrs 6 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend-v2               6 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.27 % 
-GreenChain Dev           3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-greenchain-mobile-v1     3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-fc-docker-dev            2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
-greenchain-admin-frontend1 hr 52 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+backend-v2               6 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
+GreenChain Dev           3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+greenchain-mobile-v1     3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+fc-docker-dev            3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+fc-app-flutter           1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 
 💻 Operating System: 
-Mac                      23 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      24 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 24 mins (90.38%)
+⏱ AI Coding Time: 21 hrs 28 mins (89.05%)
 
-✍️ 17,171 lines written by AI, 337 lines written by hand (98.08% AI-written)
+✍️ 17,074 lines written by AI, 375 lines written by hand (97.85% AI-written)
 
-🔤 296,140,110 Input Tokens, 948,550 Output Tokens
+🔤 297,148,071 Input Tokens, 952,487 Output Tokens
 
-💵 $1578.82 Estimated AI Cost This Week
+💵 $1574.08 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 305 AI Prompts
+🧠 47 AI Sessions, 312 AI Prompts
 
-GPT                      18,778 lines        █████████████████████████   100.00 % 
+GPT                      18,657 lines        █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.08% of written lines came from AI
-📚 Verbose Prompter — average 2,206 characters per prompt
+🤖 AI-Driven — 97.85% of written lines came from AI
+📚 Verbose Prompter — average 2,216 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 85.04% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 85.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -122,7 +122,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 03:20:50 UTC
+ Last Updated on 01/08/2026 03:19:01 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
