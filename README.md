@@ -17,9 +17,9 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C915%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C916%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-172%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,47 +62,47 @@ Sunday                   6415 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-PHP                      7 hrs 35 mins       ████████░░░░░░░░░░░░░░░░░   31.48 % 
-Other                    6 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.93 % 
-Dart                     3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-Markdown                 1 hr 36 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-TypeScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+PHP                      4 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Other                    4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
+Dart                     2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+TypeScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  18 hrs 43 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend-v2               6 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   27.77 % 
-GreenChain Dev           3 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
-greenchain-mobile-v1     3 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-fc-docker-dev            3 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
-fc-app-flutter           1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+backend-v2               3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+greenchain-mobile-v1     3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
+fc-docker-dev            3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+GreenChain Dev           2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+fc-app-flutter           1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
 
 💻 Operating System: 
-Mac                      24 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      18 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 28 mins (89.05%)
+⏱ AI Coding Time: 17 hrs 2 mins (91.03%)
 
-✍️ 17,074 lines written by AI, 375 lines written by hand (97.85% AI-written)
+✍️ 12,601 lines written by AI, 277 lines written by hand (97.85% AI-written)
 
-🔤 297,148,071 Input Tokens, 952,487 Output Tokens
+🔤 251,483,368 Input Tokens, 761,253 Output Tokens
 
-💵 $1574.08 Estimated AI Cost This Week
+💵 $1329.09 Estimated AI Cost This Week
 
-🧠 47 AI Sessions, 312 AI Prompts
+🧠 39 AI Sessions, 270 AI Prompts
 
-GPT                      18,657 lines        █████████████████████████   100.00 % 
+GPT                      13,158 lines        █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.85% of written lines came from AI
-📚 Verbose Prompter — average 2,216 characters per prompt
+📚 Verbose Prompter — average 2,544 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 85.14% of changed lines were hand-edited
+🚀 High AI Trust — 38.86% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -122,7 +122,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 03:19:01 UTC
+ Last Updated on 02/08/2026 03:16:51 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
