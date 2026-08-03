@@ -62,47 +62,47 @@ Sunday                   6415 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-PHP                      4 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Other                    4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-Dart                     2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
-TypeScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+PHP                      4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
+Other                    4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
+Dart                     2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+TypeScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
+JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 43 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend-v2               3 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-greenchain-mobile-v1     3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-fc-docker-dev            3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-GreenChain Dev           2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-fc-app-flutter           1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+backend-v2               3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+greenchain-mobile-v1     3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+fc-docker-dev            3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+GreenChain Dev           2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
+fc-app-flutter           1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
 
 💻 Operating System: 
-Mac                      18 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      18 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 2 mins (91.03%)
+⏱ AI Coding Time: 16 hrs 59 mins (91.05%)
 
-✍️ 12,601 lines written by AI, 277 lines written by hand (97.85% AI-written)
+✍️ 12,446 lines written by AI, 277 lines written by hand (97.82% AI-written)
 
-🔤 251,483,368 Input Tokens, 761,253 Output Tokens
+🔤 250,207,843 Input Tokens, 753,269 Output Tokens
 
-💵 $1329.09 Estimated AI Cost This Week
+💵 $1322.47 Estimated AI Cost This Week
 
-🧠 39 AI Sessions, 270 AI Prompts
+🧠 38 AI Sessions, 269 AI Prompts
 
-GPT                      13,158 lines        █████████████████████████   100.00 % 
+GPT                      13,003 lines        █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.85% of written lines came from AI
-📚 Verbose Prompter — average 2,544 characters per prompt
+🤖 AI-Driven — 97.82% of written lines came from AI
+📚 Verbose Prompter — average 2,553 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 38.86% of changed lines were hand-edited
+🚀 High AI Trust — 39.14% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -122,7 +122,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 03:16:51 UTC
+ Last Updated on 03/08/2026 03:17:40 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
