@@ -27,7 +27,7 @@ My Stats are below:
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 602 Contributions in the Year 2026
+> 🏆 611 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -40,13 +40,13 @@ My Stats are below:
 ```text
 🌞 Morning                7927 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
 🌆 Daytime                20072 commits       █████████░░░░░░░░░░░░░░░░   37.35 % 
-🌃 Evening                17660 commits       ████████░░░░░░░░░░░░░░░░░   32.86 % 
+🌃 Evening                17666 commits       ████████░░░░░░░░░░░░░░░░░   32.87 % 
 🌙 Night                  8076 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   9178 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
+Monday                   9184 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
 Tuesday                  8765 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
 Wednesday                8654 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
 Thursday                 7708 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
@@ -62,47 +62,47 @@ Sunday                   6415 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-PHP                      4 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-Other                    4 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Dart                     2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-TypeScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.03 % 
-JSON                     1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+PHP                      3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+Other                    2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
+Dart                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 39 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 58 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-backend-v2               3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
-greenchain-mobile-v1     3 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
-fc-docker-dev            3 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-GreenChain Dev           2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-fc-app-flutter           1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+backend-v2               2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+fc-docker-dev            2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+fc-app-flutter           1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
+GreenChain Dev           1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+greenchain-mobile-v1     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
 
 💻 Operating System: 
-Mac                      18 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 59 mins (91.05%)
+⏱ AI Coding Time: 9 hrs 58 mins (90.91%)
 
-✍️ 12,446 lines written by AI, 277 lines written by hand (97.82% AI-written)
+✍️ 8,249 lines written by AI, 167 lines written by hand (98.02% AI-written)
 
-🔤 250,207,843 Input Tokens, 753,269 Output Tokens
+🔤 161,367,645 Input Tokens, 492,789 Output Tokens
 
-💵 $1322.47 Estimated AI Cost This Week
+💵 $885.10 Estimated AI Cost This Week
 
-🧠 38 AI Sessions, 269 AI Prompts
+🧠 29 AI Sessions, 186 AI Prompts
 
-GPT                      13,003 lines        █████████████████████████   100.00 % 
+GPT                      8,442 lines         █████████████████████████   100.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.82% of written lines came from AI
-📚 Verbose Prompter — average 2,553 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 39.14% of changed lines were hand-edited
+🤖 AI-Driven — 98.02% of written lines came from AI
+📚 Verbose Prompter — average 3,437 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 18.58% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -122,7 +122,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 03/08/2026 03:17:40 UTC
+ Last Updated on 04/08/2026 03:02:34 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
