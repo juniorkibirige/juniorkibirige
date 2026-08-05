@@ -17,9 +17,9 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C916%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C917%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,47 +62,50 @@ Sunday                   6415 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-PHP                      3 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
-Other                    2 hrs 31 mins       ██████░░░░░░░░░░░░░░░░░░░   22.92 % 
-Dart                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
-Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-YAML                     1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Other                    1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Dart                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+PHP                      1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
+Markdown                 1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+CSV                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 58 mins      █████████████████████████   100.00 % 
+VS Code                  6 hrs 54 mins       ████████████████████████░   96.06 % 
+Claude Code              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🐱‍💻 Projects: 
-backend-v2               2 hrs 40 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
-fc-docker-dev            2 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
-fc-app-flutter           1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-GreenChain Dev           1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-greenchain-mobile-v1     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+fc-docker-dev            2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.97 % 
+fc-app-flutter           1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
+backend-v2               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+greenchain-admin-frontend30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+fc-api                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 
 💻 Operating System: 
-Mac                      10 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      7 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 58 mins (90.91%)
+⏱ AI Coding Time: 6 hrs 20 mins (88.33%)
 
-✍️ 8,249 lines written by AI, 167 lines written by hand (98.02% AI-written)
+✍️ 2,947 lines written by AI, 84 lines written by hand (97.23% AI-written)
 
-🔤 161,367,645 Input Tokens, 492,789 Output Tokens
+🔤 83,034,205 Input Tokens, 295,158 Output Tokens
 
-💵 $885.10 Estimated AI Cost This Week
+💵 $493.20 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 186 AI Prompts
+🧠 24 AI Sessions, 110 AI Prompts
 
-GPT                      8,442 lines         █████████████████████████   100.00 % 
+GPT                      2,955 lines         ████████████████████████░   95.45 % 
+Opus                     141 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.02% of written lines came from AI
-📚 Verbose Prompter — average 3,437 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 18.58% of changed lines were hand-edited
+🤖 AI-Driven — 97.23% of written lines came from AI
+📚 Verbose Prompter — average 2,870 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 7.34% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -122,7 +125,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 03:02:34 UTC
+ Last Updated on 05/08/2026 03:06:36 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
