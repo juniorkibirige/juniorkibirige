@@ -17,9 +17,9 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C917%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C919%20hrs%2023%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-173%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-175%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -39,20 +39,20 @@ My Stats are below:
 
 ```text
 🌞 Morning                7927 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-🌆 Daytime                20072 commits       █████████░░░░░░░░░░░░░░░░   37.35 % 
-🌃 Evening                17666 commits       ████████░░░░░░░░░░░░░░░░░   32.87 % 
+🌆 Daytime                20075 commits       █████████░░░░░░░░░░░░░░░░   37.35 % 
+🌃 Evening                17672 commits       ████████░░░░░░░░░░░░░░░░░   32.88 % 
 🌙 Night                  8076 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
 Monday                   9184 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Tuesday                  8765 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Tuesday                  8768 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
 Wednesday                8654 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
 Thursday                 7708 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Friday                   6748 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Friday                   6754 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
 Saturday                 6267 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Sunday                   6415 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Sunday                   6415 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 ```
 
 
@@ -62,50 +62,49 @@ Sunday                   6415 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Other                    1 hr 34 mins        █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
-Dart                     1 hr 14 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-PHP                      1 hr 13 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Markdown                 1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
-CSV                      37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+TypeScript               3 hrs 37 mins       █████████░░░░░░░░░░░░░░░░   36.10 % 
+Dart                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+PHP                      1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Markdown                 1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Other                    49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 54 mins       ████████████████████████░   96.06 % 
-Claude Code              16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+VS Code                  8 hrs 4 mins        ████████████████████░░░░░   80.46 % 
+Claude Code              1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
 
 🐱‍💻 Projects: 
-fc-docker-dev            2 hrs 52 mins       ██████████░░░░░░░░░░░░░░░   39.97 % 
-fc-app-flutter           1 hr 54 mins        ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-backend-v2               52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
-greenchain-admin-frontend30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
-fc-api                   29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+fc-docker-dev            6 hrs 17 mins       ████████████████░░░░░░░░░   62.66 % 
+fc-app-flutter           1 hr 58 mins        █████░░░░░░░░░░░░░░░░░░░░   19.71 % 
+fc-api                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+backend-v2               41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+GreenChain Dev           6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 Operating System: 
-Mac                      7 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 20 mins (88.33%)
+⏱ AI Coding Time: 8 hrs 50 mins (88.06%)
 
-✍️ 2,947 lines written by AI, 84 lines written by hand (97.23% AI-written)
+✍️ 4,464 lines written by AI, 115 lines written by hand (97.49% AI-written)
 
-🔤 83,034,205 Input Tokens, 295,158 Output Tokens
+🔤 180,859,550 Input Tokens, 462,349 Output Tokens
 
-💵 $493.20 Estimated AI Cost This Week
+💵 $982.02 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 110 AI Prompts
+🧠 25 AI Sessions, 135 AI Prompts
 
-GPT                      2,955 lines         ████████████████████████░   95.45 % 
-Opus                     141 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+GPT                      2,707 lines         ██████████████░░░░░░░░░░░   57.89 % 
+Opus                     1,969 lines         ███████████░░░░░░░░░░░░░░   42.11 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.23% of written lines came from AI
-📚 Verbose Prompter — average 2,870 characters per prompt
+🤖 AI-Driven — 97.49% of written lines came from AI
+📚 Verbose Prompter — average 2,932 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 7.34% of changed lines were hand-edited
+🚀 High AI Trust — 5.62% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -125,7 +124,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2026 03:06:36 UTC
+ Last Updated on 06/08/2026 03:05:55 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
