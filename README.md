@@ -62,52 +62,52 @@ Sunday                   6533 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-PHP                      11 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   34.77 % 
-Other                    4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
-Markdown                 4 hrs 10 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-TypeScript               4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Bash                     1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+PHP                      10 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   36.46 % 
+Other                    4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+TypeScript               3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Markdown                 2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+Bash                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 21 mins      ███████████████████░░░░░░   74.92 % 
-VS Code                  7 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-Codex Vscode             29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
+Claude Code              20 hrs 59 mins      ██████████████████░░░░░░░   73.41 % 
+VS Code                  7 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
+Codex Vscode             29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
 
 🐱‍💻 Projects: 
-creditbridge-api         9 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.00 % 
-creditbridge-frontend-v2 4 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
-CreditBridge Dev         3 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
-fc-docker-dev            3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-insighto                 2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+creditbridge-api         9 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.06 % 
+fc-docker-dev            3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+creditbridge-frontend-v2 3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+CreditBridge Dev         2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+insighto                 2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
 
 💻 Operating System: 
-Mac                      32 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      28 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 29 mins (90.72%)
+⏱ AI Coding Time: 25 hrs 36 mins (89.59%)
 
-✍️ 29,723 lines written by AI, 951 lines written by hand (96.9% AI-written)
+✍️ 25,380 lines written by AI, 936 lines written by hand (96.44% AI-written)
 
-🔤 19,272,427 Input Tokens, 2,366,554 Output Tokens
+🔤 18,246,324 Input Tokens, 2,041,167 Output Tokens
 
-💵 $741.81 Estimated AI Cost This Week
+💵 $672.52 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 272 AI Prompts
+🧠 22 AI Sessions, 251 AI Prompts
 
-Opus                     29,654 lines        ████████████████████████░   97.80 % 
-Sonnet                   455 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-GPT                      212 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+Opus                     25,293 lines        ████████████████████████░   97.43 % 
+Sonnet                   455 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+GPT                      212 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.9% of written lines came from AI
-📚 Verbose Prompter — average 1,994 characters per prompt
+🤖 AI-Driven — 96.44% of written lines came from AI
+📚 Verbose Prompter — average 2,151 characters per prompt
 🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 3.18% of changed lines were hand-edited
+🚀 High AI Trust — 3.64% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -127,7 +127,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 01:49:34 UTC
+ Last Updated on 17/08/2026 01:44:42 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
