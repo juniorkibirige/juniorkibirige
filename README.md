@@ -17,9 +17,9 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C952%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C955%20hrs%2041%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-210%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-211%20hrs%2059%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -62,52 +62,52 @@ Sunday                   6533 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-PHP                      10 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   36.46 % 
-Other                    4 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-TypeScript               3 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Markdown                 2 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
-Bash                     1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+PHP                      8 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   31.94 % 
+Other                    3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Markdown                 2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+TypeScript               2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
+CSV                      2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 
 🔥 Editors: 
-Claude Code              20 hrs 59 mins      ██████████████████░░░░░░░   73.41 % 
-VS Code                  7 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   24.88 % 
-Codex Vscode             29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Claude Code              18 hrs 55 mins      █████████████████░░░░░░░░   69.50 % 
+VS Code                  7 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+Codex Vscode             29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 🐱‍💻 Projects: 
-creditbridge-api         9 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   33.06 % 
-fc-docker-dev            3 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-creditbridge-frontend-v2 3 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-CreditBridge Dev         2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
-insighto                 2 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+creditbridge-api         7 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+fc-docker-dev            4 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+insighto                 3 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+creditbridge-frontend-v2 2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+fc-api                   2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
 
 💻 Operating System: 
-Mac                      28 hrs 35 mins      █████████████████████████   100.00 % 
+Mac                      27 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 25 hrs 36 mins (89.59%)
+⏱ AI Coding Time: 23 hrs 16 mins (85.47%)
 
-✍️ 25,380 lines written by AI, 936 lines written by hand (96.44% AI-written)
+✍️ 20,361 lines written by AI, 935 lines written by hand (95.61% AI-written)
 
-🔤 18,246,324 Input Tokens, 2,041,167 Output Tokens
+🔤 14,847,266 Input Tokens, 1,682,425 Output Tokens
 
-💵 $672.52 Estimated AI Cost This Week
+💵 $555.93 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 251 AI Prompts
+🧠 20 AI Sessions, 233 AI Prompts
 
-Opus                     25,293 lines        ████████████████████████░   97.43 % 
-Sonnet                   455 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-GPT                      212 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Opus                     20,300 lines        ████████████████████████░   97.58 % 
+Sonnet                   455 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+GPT                      48 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.44% of written lines came from AI
-📚 Verbose Prompter — average 2,151 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 3.64% of changed lines were hand-edited
+🤖 AI-Driven — 95.61% of written lines came from AI
+📚 Verbose Prompter — average 2,305 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 4.51% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -127,7 +127,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2026 01:43:52 UTC
+ Last Updated on 19/08/2026 01:44:37 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
