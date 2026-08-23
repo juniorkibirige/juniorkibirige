@@ -62,51 +62,49 @@ Sunday                   6533 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-CSV                      2 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.21 % 
-PHP                      1 hr 20 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-Bash                     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-Python                   52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
-Text                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
+CSV                      2 hrs 27 mins       ████████████████████░░░░░   81.87 % 
+Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+PHP                      10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 37 mins       ██████████████░░░░░░░░░░░   56.74 % 
-Claude Code              3 hrs 25 mins       ██████████░░░░░░░░░░░░░░░   41.87 % 
-Codex Vscode             6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+VS Code                  2 hrs 7 mins        ██████████████████░░░░░░░   70.54 % 
+Claude Code              53 mins             ███████░░░░░░░░░░░░░░░░░░   29.46 % 
 
 🐱‍💻 Projects: 
-insighto                 3 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.29 % 
-fc-docker-dev            1 hr 46 mins        █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
-fc-api                   1 hr 12 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
-Aldi Files               48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Unknown Project          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+insighto                 49 mins             ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+Aldi Files               48 mins             ███████░░░░░░░░░░░░░░░░░░   27.09 % 
+fc-docker-dev            40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.58 % 
+Unknown Project          28 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+fc-middleware            4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 💻 Operating System: 
-Mac                      8 hrs 9 mins        █████████████████████████   100.00 % 
+Mac                      3 hrs               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 39 mins (69.39%)
+⏱ AI Coding Time: 1 hr 42 mins (56.55%)
 
-✍️ 1,137 lines written by AI, 29 lines written by hand (97.51% AI-written)
+✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 926,440 Input Tokens, 240,807 Output Tokens
+🔤 101,328 Input Tokens, 19,952 Output Tokens
 
-💵 $38.95 Estimated AI Cost This Week
+💵 $11.57 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 98 AI Prompts
+🧠 4 AI Sessions, 17 AI Prompts
 
-Opus                     1,051 lines         █████████████████░░░░░░░░   69.79 % 
-Sonnet                   455 lines           ████████░░░░░░░░░░░░░░░░░   30.21 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     369 lines           █████████████████████████   100.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.51% of written lines came from AI
-📄 Detailed Prompter — average 1,256 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 5.33% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 138 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -126,7 +124,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 01:45:11 UTC
+ Last Updated on 23/08/2026 01:50:08 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
