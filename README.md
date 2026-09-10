@@ -17,9 +17,9 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C994%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C996%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-256%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-259%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -35,80 +35,6 @@ My Stats are below:
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                10978 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-🌆 Daytime                29571 commits       █████████░░░░░░░░░░░░░░░░   37.87 % 
-🌃 Evening                27213 commits       █████████░░░░░░░░░░░░░░░░   34.85 % 
-🌙 Night                  10319 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   14900 commits       █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
-Tuesday                  13164 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Wednesday                15134 commits       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
-Thursday                 10440 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Friday                   9551 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-Saturday                 8206 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Sunday                   6686 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Kampala
-
-💬 Programming Languages: 
-PHP                      6 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   36.72 % 
-Markdown                 4 hrs               ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
-Other                    3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
-Bash                     1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-SQL                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-
-🔥 Editors: 
-Claude Code              11 hrs 13 mins      ████████████████░░░░░░░░░   64.47 % 
-VS Code                  4 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.20 % 
-Codex Vscode             1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-
-🐱‍💻 Projects: 
-fc-docker-dev            6 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.07 % 
-fc-api                   4 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-nira-kyc-auth-api        3 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-VerifyKYC Dev            1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-fc-frontend-vue          51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-
-💻 Operating System: 
-Mac                      17 hrs 25 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 15 hrs 12 mins (87.26%)
-
-✍️ 2,483 lines written by AI, 163 lines written by hand (93.84% AI-written)
-
-🔤 6,863,455 Input Tokens, 1,192,643 Output Tokens
-
-💵 $239.59 Estimated AI Cost This Week
-
-🧠 31 AI Sessions, 162 AI Prompts
-
-Opus                     1,749 lines         █████████████████░░░░░░░░   68.67 % 
-Sonnet                   794 lines           ████████░░░░░░░░░░░░░░░░░   31.17 % 
-GPT                      4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.84% of written lines came from AI
-📄 Detailed Prompter — average 610 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 16.39% of changed lines were hand-edited
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -126,7 +52,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 09/09/2026 04:11:03 UTC
+ Last Updated on 10/09/2026 04:03:25 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
