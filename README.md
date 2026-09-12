@@ -17,9 +17,9 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C999%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C002%20hrs%2015%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-263%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-266%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -27,7 +27,7 @@ My Stats are below:
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,040 Contributions in the Year 2026
+> 🏆 1,041 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -39,7 +39,7 @@ My Stats are below:
 
 ```text
 🌞 Morning                11084 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-🌆 Daytime                29882 commits       █████████░░░░░░░░░░░░░░░░   37.95 % 
+🌆 Daytime                29883 commits       █████████░░░░░░░░░░░░░░░░   37.95 % 
 🌃 Evening                27365 commits       █████████░░░░░░░░░░░░░░░░   34.75 % 
 🌙 Night                  10415 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
 ```
@@ -49,8 +49,8 @@ My Stats are below:
 Monday                   14983 commits       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
 Tuesday                  13264 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
 Wednesday                15271 commits       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Thursday                 10556 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Friday                   9616 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Thursday                 10556 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Friday                   9617 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
 Saturday                 8264 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 Sunday                   6792 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
 ```
@@ -62,51 +62,51 @@ Sunday                   6792 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-TypeScript               5 hrs 46 mins       ████████░░░░░░░░░░░░░░░░░   33.34 % 
-Other                    4 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.94 % 
-PHP                      2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Bash                     1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-TSConfig                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 % 
+TypeScript               8 hrs 26 mins       ████████████░░░░░░░░░░░░░   47.53 % 
+Other                    3 hrs 59 mins       ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+PHP                      2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
+TSConfig                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 53 mins      ████████████████████░░░░░   80.14 % 
-VS Code                  2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Codex Vscode             41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Claude Code              15 hrs 53 mins      ██████████████████████░░░   89.51 % 
+VS Code                  1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.24 % 
+Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🐱‍💻 Projects: 
-fc-docker-dev            11 hrs 5 mins       ████████████████░░░░░░░░░   64.06 % 
-fc-api                   2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-nira-kyc-auth-api        1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
-fc-frontend-vue          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
-VerifyKYC Dev            27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
+fc-docker-dev            13 hrs 28 mins      ███████████████████░░░░░░   75.92 % 
+fc-api                   1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+nira-kyc-auth-api        1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+fc-app-flutter           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+insighto                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 
 💻 Operating System: 
-Mac                      17 hrs 19 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 16 mins (93.97%)
+⏱ AI Coding Time: 17 hrs 8 mins (96.56%)
 
-✍️ 3,314 lines written by AI, 47 lines written by hand (98.6% AI-written)
+✍️ 4,022 lines written by AI, 5 lines written by hand (99.88% AI-written)
 
-🔤 5,772,187 Input Tokens, 1,044,460 Output Tokens
+🔤 5,329,313 Input Tokens, 1,000,718 Output Tokens
 
-💵 $229.47 Estimated AI Cost This Week
+💵 $243.05 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 104 AI Prompts
+🧠 19 AI Sessions, 90 AI Prompts
 
-Opus                     2,520 lines         ███████████████████░░░░░░   75.95 % 
-Sonnet                   794 lines           ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-GPT                      4 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Opus                     3,246 lines         ████████████████████░░░░░   80.35 % 
+Sonnet                   794 lines           █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.6% of written lines came from AI
-📄 Detailed Prompter — average 538 characters per prompt
+🤖 AI-Driven — 99.88% of written lines came from AI
+📝 Concise Prompter — average 257 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 10.2% of changed lines were hand-edited
+🚀 High AI Trust — 25.63% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -126,7 +126,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 04:01:13 UTC
+ Last Updated on 12/09/2026 04:04:32 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
