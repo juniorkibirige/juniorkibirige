@@ -62,40 +62,40 @@ Sunday                   6792 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-TypeScript               8 hrs 26 mins       ████████████░░░░░░░░░░░░░   49.78 % 
-Other                    3 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-PHP                      1 hr 54 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-TSConfig                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
-HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+TypeScript               8 hrs 26 mins       █████████████░░░░░░░░░░░░   50.79 % 
+Other                    3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
+PHP                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+TSConfig                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 30 mins      ███████████████████████░░   91.42 % 
-VS Code                  1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Codex Vscode             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Claude Code              15 hrs 14 mins      ███████████████████████░░   91.73 % 
+VS Code                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-fc-docker-dev            13 hrs 28 mins      ████████████████████░░░░░   79.51 % 
-fc-api                   1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-nira-kyc-auth-api        43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-fc-app-flutter           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-insighto                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+fc-docker-dev            13 hrs 27 mins      ████████████████████░░░░░   81.04 % 
+fc-api                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+nira-kyc-auth-api        34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+fc-app-flutter           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+insighto                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 💻 Operating System: 
-Mac                      16 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      16 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 37 mins (98.09%)
+⏱ AI Coding Time: 16 hrs 18 mins (98.11%)
 
 ✍️ 4,022 lines written by AI, 3 lines written by hand (99.93% AI-written)
 
-🔤 5,135,801 Input Tokens, 949,545 Output Tokens
+🔤 4,936,537 Input Tokens, 918,028 Output Tokens
 
-💵 $239.42 Estimated AI Cost This Week
+💵 $237.49 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 83 AI Prompts
+🧠 13 AI Sessions, 75 AI Prompts
 
 Opus                     3,246 lines         ████████████████████░░░░░   80.35 % 
 Sonnet                   794 lines           █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
@@ -104,8 +104,8 @@ GPT                      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.93% of written lines came from AI
-📝 Concise Prompter — average 241 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
+📝 Concise Prompter — average 249 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
 🚀 High AI Trust — 25.58% of changed lines were hand-edited
 ```
 
@@ -126,7 +126,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 04:10:29 UTC
+ Last Updated on 14/09/2026 04:22:41 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
