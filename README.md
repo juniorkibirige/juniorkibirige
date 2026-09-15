@@ -62,51 +62,51 @@ Sunday                   6792 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-TypeScript               8 hrs 26 mins       █████████████░░░░░░░░░░░░   50.79 % 
-Other                    3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-PHP                      1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TSConfig                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
-HTML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+TypeScript               8 hrs 27 mins       ████████████░░░░░░░░░░░░░   47.40 % 
+Other                    3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+PHP                      1 hr 38 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+Python                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+TSConfig                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 14 mins      ███████████████████████░░   91.73 % 
-VS Code                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
-Codex Vscode             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Claude Code              16 hrs 13 mins      ███████████████████████░░   90.84 % 
+VS Code                  1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Codex Vscode             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🐱‍💻 Projects: 
-fc-docker-dev            13 hrs 27 mins      ████████████████████░░░░░   81.04 % 
-fc-api                   1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-nira-kyc-auth-api        34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-fc-app-flutter           29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-insighto                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+fc-docker-dev            14 hrs 37 mins      ████████████████████░░░░░   81.90 % 
+fc-api                   1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+fc-app-flutter           43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+nira-kyc-auth-api        34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+insighto                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 36 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 18 mins (98.11%)
+⏱ AI Coding Time: 17 hrs 27 mins (97.76%)
 
-✍️ 4,022 lines written by AI, 3 lines written by hand (99.93% AI-written)
+✍️ 4,022 lines written by AI, 20 lines written by hand (99.51% AI-written)
 
-🔤 4,936,537 Input Tokens, 918,028 Output Tokens
+🔤 6,592,922 Input Tokens, 978,888 Output Tokens
 
-💵 $237.49 Estimated AI Cost This Week
+💵 $270.66 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 75 AI Prompts
+🧠 14 AI Sessions, 107 AI Prompts
 
-Opus                     3,246 lines         ████████████████████░░░░░   80.35 % 
-Sonnet                   794 lines           █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     4,040 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.93% of written lines came from AI
-📝 Concise Prompter — average 249 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 25.58% of changed lines were hand-edited
+🤖 AI-Driven — 99.51% of written lines came from AI
+📝 Concise Prompter — average 196 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 22.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -126,7 +126,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 14/09/2026 04:22:41 UTC
+ Last Updated on 15/09/2026 04:21:05 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
