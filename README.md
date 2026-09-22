@@ -35,79 +35,6 @@ My Stats are below:
  > 
 > 🔑 21 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                11084 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-🌆 Daytime                29883 commits       █████████░░░░░░░░░░░░░░░░   37.95 % 
-🌃 Evening                27365 commits       █████████░░░░░░░░░░░░░░░░   34.75 % 
-🌙 Night                  10415 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   14983 commits       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
-Tuesday                  13264 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
-Wednesday                15271 commits       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Thursday                 10556 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
-Friday                   9617 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Saturday                 8264 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Sunday                   6792 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Kampala
-
-💬 Programming Languages: 
-Other                    4 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   33.95 % 
-TypeScript               2 hrs 38 mins       █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
-PHP                      2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-HTML                     1 hr 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-
-🔥 Editors: 
-Claude Code              11 hrs 46 mins      ██████████████████████░░░   88.72 % 
-VS Code                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
-Codex Vscode             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-
-🐱‍💻 Projects: 
-fc-docker-dev            9 hrs 57 mins       ███████████████████░░░░░░   75.07 % 
-fc-api                   2 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   19.10 % 
-fc-app-flutter           30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-fc-frontend-vue          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-insighto                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-
-💻 Operating System: 
-Mac                      13 hrs 16 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 12 hrs 38 mins (95.21%)
-
-✍️ 4,089 lines written by AI, 19 lines written by hand (99.54% AI-written)
-
-🔤 6,540,157 Input Tokens, 741,191 Output Tokens
-
-💵 $229.96 Estimated AI Cost This Week
-
-🧠 18 AI Sessions, 118 AI Prompts
-
-Opus                     4,324 lines         █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.54% of written lines came from AI
-📝 Concise Prompter — average 326 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.4% of changed lines were hand-edited
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -125,7 +52,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 21/09/2026 04:21:29 UTC
+ Last Updated on 22/09/2026 04:19:33 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
