@@ -17,9 +17,9 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C015%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C016%20hrs%2033%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-283%20hrs%2030%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-284%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -35,6 +35,76 @@ My Stats are below:
  > 
 > 🔑 21 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                11084 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+🌆 Daytime                29883 commits       █████████░░░░░░░░░░░░░░░░   37.95 % 
+🌃 Evening                27365 commits       █████████░░░░░░░░░░░░░░░░   34.75 % 
+🌙 Night                  10415 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   14983 commits       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+Tuesday                  13264 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.84 % 
+Wednesday                15271 commits       █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Thursday                 10556 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Friday                   9617 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Saturday                 8264 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Sunday                   6792 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Kampala
+
+💬 Programming Languages: 
+Other                    3 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.04 % 
+TypeScript               2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+PHP                      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+HTML                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+
+🔥 Editors: 
+Claude Code              9 hrs 15 mins       ███████████████████████░░   93.21 % 
+VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+
+🐱‍💻 Projects: 
+fc-docker-dev            7 hrs 9 mins        ██████████████████░░░░░░░   72.00 % 
+fc-api                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+fc-app-flutter           1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+fc-frontend-vue          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+
+💻 Operating System: 
+Mac                      9 hrs 56 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 9 hrs 24 mins (94.7%)
+
+✍️ 2,709 lines written by AI, 10 lines written by hand (99.63% AI-written)
+
+🔤 4,731,970 Input Tokens, 569,387 Output Tokens
+
+💵 $143.14 Estimated AI Cost This Week
+
+🧠 14 AI Sessions, 73 AI Prompts
+
+Opus                     2,841 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.63% of written lines came from AI
+📝 Concise Prompter — average 279 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 1.29% of changed lines were hand-edited
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -52,7 +122,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2026 04:19:33 UTC
+ Last Updated on 23/09/2026 04:17:47 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
