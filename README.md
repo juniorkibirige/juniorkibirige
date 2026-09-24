@@ -17,9 +17,9 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C016%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C017%20hrs-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-284%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-285%20hrs%2018%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,47 +62,47 @@ Sunday                   6792 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Other                    3 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   36.04 % 
-TypeScript               2 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
-Markdown                 1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-PHP                      1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-HTML                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Other                    2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
+Markdown                 1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
+TypeScript               1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+HTML                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+PHP                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 15 mins       ███████████████████████░░   93.21 % 
-VS Code                  40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Claude Code              8 hrs 7 mins        ███████████████████████░░   92.88 % 
+VS Code                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 
 🐱‍💻 Projects: 
-fc-docker-dev            7 hrs 9 mins        ██████████████████░░░░░░░   72.00 % 
-fc-api                   1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-fc-app-flutter           1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
-fc-frontend-vue          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+fc-docker-dev            5 hrs 57 mins       █████████████████░░░░░░░░   68.13 % 
+fc-app-flutter           1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+fc-api                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+fc-frontend-vue          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 
 💻 Operating System: 
-Mac                      9 hrs 56 mins       █████████████████████████   100.00 % 
+Mac                      8 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 24 mins (94.7%)
+⏱ AI Coding Time: 8 hrs 13 mins (94.05%)
 
-✍️ 2,709 lines written by AI, 10 lines written by hand (99.63% AI-written)
+✍️ 2,937 lines written by AI, 8 lines written by hand (99.73% AI-written)
 
-🔤 4,731,970 Input Tokens, 569,387 Output Tokens
+🔤 3,403,114 Input Tokens, 462,665 Output Tokens
 
-💵 $143.14 Estimated AI Cost This Week
+💵 $103.84 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 73 AI Prompts
+🧠 11 AI Sessions, 54 AI Prompts
 
-Opus                     2,841 lines         █████████████████████████   100.00 % 
+Opus                     2,968 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
-📝 Concise Prompter — average 279 characters per prompt
+🤖 AI-Driven — 99.73% of written lines came from AI
+📝 Concise Prompter — average 275 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 1.29% of changed lines were hand-edited
+🚀 High AI Trust — 0.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -122,7 +122,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 23/09/2026 04:17:47 UTC
+ Last Updated on 24/09/2026 04:10:51 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
