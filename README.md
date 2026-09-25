@@ -17,9 +17,9 @@
 My Stats are below:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C017%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C018%20hrs%201%20min-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-285%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-286%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -62,47 +62,47 @@ Sunday                   6792 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Other                    2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.49 % 
-Markdown                 1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-TypeScript               1 hr 21 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
-HTML                     1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-PHP                      39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+Other                    4 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.63 % 
+Markdown                 1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+PHP                      1 hr 1 min          ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 
 🔥 Editors: 
-Claude Code              8 hrs 7 mins        ███████████████████████░░   92.88 % 
-VS Code                  37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+Claude Code              8 hrs 40 mins       ██████████████████████░░░   88.95 % 
+VS Code                  1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
 
 🐱‍💻 Projects: 
-fc-docker-dev            5 hrs 57 mins       █████████████████░░░░░░░░   68.13 % 
-fc-app-flutter           1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-fc-api                   51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-fc-frontend-vue          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+fc-docker-dev            5 hrs 36 mins       ██████████████░░░░░░░░░░░   57.57 % 
+fc-api                   1 hr 48 mins        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+fc-app-flutter           1 hr 41 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
+fcscripts                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+fc-frontend-vue          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.68 % 
 
 💻 Operating System: 
-Mac                      8 hrs 44 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 13 mins (94.05%)
+⏱ AI Coding Time: 9 hrs 2 mins (92.77%)
 
-✍️ 2,937 lines written by AI, 8 lines written by hand (99.73% AI-written)
+✍️ 2,040 lines written by AI, 57 lines written by hand (97.28% AI-written)
 
-🔤 3,403,114 Input Tokens, 462,665 Output Tokens
+🔤 2,951,828 Input Tokens, 517,549 Output Tokens
 
-💵 $103.84 Estimated AI Cost This Week
+💵 $98.37 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 54 AI Prompts
+🧠 12 AI Sessions, 67 AI Prompts
 
-Opus                     2,968 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     2,043 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.73% of written lines came from AI
-📝 Concise Prompter — average 275 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.27% of changed lines were hand-edited
+🤖 AI-Driven — 97.28% of written lines came from AI
+📝 Concise Prompter — average 78 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 3.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -122,7 +122,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 24/09/2026 04:10:51 UTC
+ Last Updated on 25/09/2026 04:26:15 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
