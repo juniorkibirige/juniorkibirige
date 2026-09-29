@@ -62,47 +62,47 @@ Sunday                   6794 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Other                    2 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   34.60 % 
-Markdown                 1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-YAML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Python                   43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
-Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Other                    2 hrs 27 mins       ██████████░░░░░░░░░░░░░░░   40.67 % 
+Markdown                 51 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+YAML                     50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Python                   43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.02 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.98 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 44 mins       ███████████████████████░░   91.98 % 
-VS Code                  35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
+Claude Code              5 hrs 28 mins       ███████████████████████░░   90.91 % 
+VS Code                  32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
 
 🐱‍💻 Projects: 
-fc-docker-dev            4 hrs 7 mins        ██████████████░░░░░░░░░░░   56.26 % 
-fc-app-flutter           1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-fc-api                   1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
-fcscripts                22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-fc-frontend-vue          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+fc-docker-dev            3 hrs 27 mins       ██████████████░░░░░░░░░░░   57.41 % 
+fc-api                   1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
+fc-app-flutter           57 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
+fcscripts                22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.31 % 
+fc-frontend-vue          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Mac                      7 hrs 19 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 7 mins (97.11%)
+⏱ AI Coding Time: 5 hrs 49 mins (96.57%)
 
-✍️ 2,040 lines written by AI, 57 lines written by hand (97.28% AI-written)
+✍️ 1,054 lines written by AI, 49 lines written by hand (95.56% AI-written)
 
-🔤 2,275,109 Input Tokens, 428,332 Output Tokens
+🔤 1,532,070 Input Tokens, 328,050 Output Tokens
 
-💵 $73.35 Estimated AI Cost This Week
+💵 $49.16 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 45 AI Prompts
+🧠 8 AI Sessions, 42 AI Prompts
 
-Opus                     2,043 lines         █████████████████████████   100.00 % 
+Opus                     1,054 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.28% of written lines came from AI
-📝 Concise Prompter — average 56 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 3.81% of changed lines were hand-edited
+🤖 AI-Driven — 95.56% of written lines came from AI
+📝 Concise Prompter — average 57 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 6.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -122,7 +122,7 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 28/09/2026 04:49:07 UTC
+ Last Updated on 29/09/2026 05:19:51 UTC
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi 👋, I'm Junior Lawrence Kibirige</h1>
