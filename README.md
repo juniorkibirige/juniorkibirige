@@ -43,7 +43,7 @@ I enjoy the hard parts: tracking down race conditions, fixing slow queries on ta
  > 
 > 🏆 1,042 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 👍🏾 Opted to Hire
  > 
 > 📜 76 Public Repositories 
  > 
