@@ -31,9 +31,9 @@ I enjoy the hard parts: tracking down race conditions, fixing slow queries on ta
 [LinkedIn](https://linkedin.com/in/junlawren) · junkib94@gmail.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C028%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C029%20hrs%2039%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-303%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-303%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -41,9 +41,9 @@ I enjoy the hard parts: tracking down race conditions, fixing slow queries on ta
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,042 Contributions in the Year 2026
+> 🏆 1,044 Contributions in the Year 2026
  > 
-> 👍🏾 Opted to Hire
+> 🚫 Not Opted to Hire
  > 
 > 📜 76 Public Repositories 
  > 
@@ -53,7 +53,7 @@ I enjoy the hard parts: tracking down race conditions, fixing slow queries on ta
 
 ```text
 🌞 Morning                11093 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-🌆 Daytime                29934 commits       █████████░░░░░░░░░░░░░░░░   37.94 % 
+🌆 Daytime                29936 commits       █████████░░░░░░░░░░░░░░░░   37.94 % 
 🌃 Evening                27442 commits       █████████░░░░░░░░░░░░░░░░   34.78 % 
 🌙 Night                  10423 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 ```
@@ -62,8 +62,8 @@ I enjoy the hard parts: tracking down race conditions, fixing slow queries on ta
 ```text
 Monday                   15003 commits       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
 Tuesday                  13299 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-Wednesday                15317 commits       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Thursday                 10585 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
+Wednesday                15317 commits       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Thursday                 10587 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
 Friday                   9617 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
 Saturday                 8277 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 Sunday                   6794 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
@@ -76,49 +76,49 @@ Sunday                   6794 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Markdown                 2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-Other                    2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.26 % 
-Python                   1 hr 47 mins        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Bash                     1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
-PHP                      53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+Other                    2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   26.41 % 
+Markdown                 2 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+Bash                     1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+TypeScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Python                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 22 mins       ███████████████████░░░░░░   77.51 % 
-VS Code                  2 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Claude Code              8 hrs 2 mins        ████████████████████░░░░░   81.45 % 
+VS Code                  1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
 
 🐱‍💻 Projects: 
-fc-docker-dev            3 hrs 23 mins       █████████░░░░░░░░░░░░░░░░   35.61 % 
-insighto                 2 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-fc-api                   2 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
-fc-frontend-vue          23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-awesome-project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+fc-docker-dev            4 hrs 13 mins       ███████████░░░░░░░░░░░░░░   42.70 % 
+insighto                 3 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   30.54 % 
+fc-api                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+fc-app-flutter           32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+awesome-project          10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Mac                      9 hrs 30 mins       █████████████████████████   100.00 % 
+Mac                      9 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 48 mins (82.08%)
+⏱ AI Coding Time: 8 hrs 19 mins (84.26%)
 
-✍️ 2,339 lines written by AI, 46 lines written by hand (98.07% AI-written)
+✍️ 1,448 lines written by AI, 46 lines written by hand (96.92% AI-written)
 
-🔤 5,681,934 Input Tokens, 594,600 Output Tokens
+🔤 5,868,850 Input Tokens, 486,301 Output Tokens
 
-💵 $132.66 Estimated AI Cost This Week
+💵 $107.75 Estimated AI Cost This Week
 
-🧠 20 AI Sessions, 126 AI Prompts
+🧠 20 AI Sessions, 108 AI Prompts
 
-Opus                     2,339 lines         █████████████████████████   100.00 % 
+Opus                     1,450 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.07% of written lines came from AI
-📄 Detailed Prompter — average 652 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 3.55% of changed lines were hand-edited
+🤖 AI-Driven — 96.92% of written lines came from AI
+📄 Detailed Prompter — average 754 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 5.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -138,5 +138,5 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 05:34:37 UTC
+ Last Updated on 09/10/2026 05:40:53 UTC
 <!--END_SECTION:waka-->
