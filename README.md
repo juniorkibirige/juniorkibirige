@@ -1,4 +1,4 @@
-<img src="assets/profile.jpg" alt="Junior Lawrence Kibirige" width="160" align="right" style="border-radius:50%" />
+<img src="assets/profile.png" alt="Junior Lawrence Kibirige" width="160" align="right" />
 
 # Hi, I'm Junior Lawrence Kibirige 👋
 
