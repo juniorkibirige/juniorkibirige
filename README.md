@@ -1,3 +1,5 @@
+<img src="assets/profile.jpg" alt="Junior Lawrence Kibirige" width="160" align="right" style="border-radius:50%" />
+
 # Hi, I'm Junior Lawrence Kibirige 👋
 
 **Senior Full-Stack Engineer** · Kampala, Uganda 🇺🇬 · Remote
