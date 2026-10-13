@@ -43,9 +43,9 @@ I enjoy the hard parts: tracking down race conditions, fixing slow queries on ta
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,044 Contributions in the Year 2026
+> 🏆 1,045 Contributions in the Year 2026
  > 
-> 🚫 Not Opted to Hire
+> 💼 Opted to Hire
  > 
 > 📜 76 Public Repositories 
  > 
@@ -55,19 +55,19 @@ I enjoy the hard parts: tracking down race conditions, fixing slow queries on ta
 
 ```text
 🌞 Morning                11091 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-🌆 Daytime                29932 commits       █████████░░░░░░░░░░░░░░░░   37.95 % 
+🌆 Daytime                29937 commits       █████████░░░░░░░░░░░░░░░░   37.96 % 
 🌃 Evening                27438 commits       █████████░░░░░░░░░░░░░░░░   34.79 % 
 🌙 Night                  10402 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   15003 commits       █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+Monday                   15008 commits       █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
 Tuesday                  13297 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
 Wednesday                15309 commits       █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
 Thursday                 10566 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
 Friday                   9617 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
-Saturday                 8277 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Saturday                 8277 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
 Sunday                   6794 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
 ```
 
@@ -78,49 +78,48 @@ Sunday                   6794 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Other                    2 hrs               ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-Bash                     1 hr 40 mins        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Markdown                 1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-TypeScript               49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-Python                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Other                    3 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.44 % 
+TypeScript               3 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   27.32 % 
+Bash                     1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Markdown                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+Python                   49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 24 mins       ████████████████████░░░░░   78.45 % 
-VS Code                  1 hr 45 mins        █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
+Claude Code              10 hrs 55 mins      ██████████████████████░░░   86.79 % 
+VS Code                  1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 
 🐱‍💻 Projects: 
-fc-docker-dev            3 hrs 40 mins       ███████████░░░░░░░░░░░░░░   44.96 % 
-insighto                 2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-fc-api                   1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-fc-app-flutter           31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.34 % 
-awesome-project          10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+fc-docker-dev            4 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   39.71 % 
+insighto                 2 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+Startup Project          1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+mobile                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+fc-api                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 💻 Operating System: 
-Mac                      8 hrs 10 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 40 mins (81.64%)
+⏱ AI Coding Time: 11 hrs 10 mins (88.79%)
 
-✍️ 1,303 lines written by AI, 46 lines written by hand (96.59% AI-written)
+✍️ 1,591 lines written by AI, 74 lines written by hand (95.56% AI-written)
 
-🔤 4,662,909 Input Tokens, 401,266 Output Tokens
+🔤 6,255,394 Input Tokens, 1,030,835 Output Tokens
 
-💵 $87.30 Estimated AI Cost This Week
+💵 $156.24 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 84 AI Prompts
+🧠 13 AI Sessions, 108 AI Prompts
 
-Opus                     1,305 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     1,629 lines         █████████████████████████   100.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.59% of written lines came from AI
-📄 Detailed Prompter — average 764 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 5.78% of changed lines were hand-edited
+🤖 AI-Driven — 95.56% of written lines came from AI
+📄 Detailed Prompter — average 1,204 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 6.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -140,5 +139,5 @@ Blade                    2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 12/10/2026 05:22:56 UTC
+ Last Updated on 13/10/2026 06:22:28 UTC
 <!--END_SECTION:waka-->
