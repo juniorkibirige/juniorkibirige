@@ -43,7 +43,7 @@ I enjoy the hard parts: tracking down race conditions, fixing slow queries on ta
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,516 Contributions in the Year 2026
+> 🏆 1,532 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -54,21 +54,21 @@ I enjoy the hard parts: tracking down race conditions, fixing slow queries on ta
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                14052 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
-🌆 Daytime                43258 commits       █████████░░░░░░░░░░░░░░░░   37.67 % 
-🌃 Evening                43411 commits       █████████░░░░░░░░░░░░░░░░   37.80 % 
-🌙 Night                  14113 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.29 % 
+🌞 Morning                14152 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+🌆 Daytime                43853 commits       █████████░░░░░░░░░░░░░░░░   37.65 % 
+🌃 Evening                44160 commits       █████████░░░░░░░░░░░░░░░░   37.91 % 
+🌙 Night                  14325 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   20795 commits       █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Tuesday                  19020 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Wednesday                27101 commits       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Thursday                 14729 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Friday                   13371 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Saturday                 12603 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Sunday                   7215 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+Monday                   21225 commits       █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+Tuesday                  19293 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+Wednesday                27533 commits       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
+Thursday                 14884 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Friday                   13556 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Saturday                 12840 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Sunday                   7159 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 ```
 
 
@@ -78,47 +78,47 @@ Sunday                   7215 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Markdown                 6 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   33.51 % 
-Other                    4 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-Bash                     4 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
-PHP                      1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
-TypeScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+Markdown                 5 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.60 % 
+Other                    2 hrs 56 mins       █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Bash                     2 hrs 39 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.54 % 
+PHP                      1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+TypeScript               51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-Claude Code              13 hrs 58 mins      ███████████████████░░░░░░   77.17 % 
-VS Code                  4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Claude Code              11 hrs 17 mins      ███████████████████░░░░░░   74.44 % 
+VS Code                  3 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
 
 🐱‍💻 Projects: 
-CreditBridge Dev         11 hrs 6 mins       ███████████████░░░░░░░░░░   61.30 % 
-creditbridge-api         4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-creditbridge-frontend-v2 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-creditbridge-scoring-engi25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-creditbridge-digital-lend16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+CreditBridge Dev         9 hrs 5 mins        ███████████████░░░░░░░░░░   59.94 % 
+creditbridge-api         3 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
+creditbridge-frontend-v2 1 hr 17 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+creditbridge-scoring-engi25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+nira-kyc-auth-api        17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 💻 Operating System: 
-Mac                      18 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 34 mins (97.01%)
+⏱ AI Coding Time: 14 hrs 36 mins (96.36%)
 
-✍️ 12,355 lines written by AI, 39 lines written by hand (99.69% AI-written)
+✍️ 15,710 lines written by AI, 23 lines written by hand (99.85% AI-written)
 
-🔤 6,308,507 Input Tokens, 1,323,531 Output Tokens
+🔤 5,850,023 Input Tokens, 1,302,126 Output Tokens
 
-💵 $86.59 Estimated AI Cost This Week
+💵 $80.49 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 263 AI Prompts
+🧠 18 AI Sessions, 220 AI Prompts
 
-Opus                     12,509 lines        █████████████████████████   100.00 % 
+Opus                     15,876 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.69% of written lines came from AI
-📚 Verbose Prompter — average 3,535 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.37% of changed lines were hand-edited
+🤖 AI-Driven — 99.85% of written lines came from AI
+📚 Verbose Prompter — average 3,795 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -138,5 +138,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 04:17:11 UTC
+ Last Updated on 27/10/2026 04:44:24 UTC
 <!--END_SECTION:waka-->
