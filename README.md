@@ -33,9 +33,9 @@ I enjoy the hard parts: tracking down race conditions, fixing slow queries on ta
 [LinkedIn](https://linkedin.com/in/junlawren) · junkib94@gmail.com
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C070%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C070%20hrs%2057%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-355%20hrs%2051%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-356%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -78,47 +78,47 @@ Sunday                   7323 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Markdown                 4 hrs 29 mins       █████████░░░░░░░░░░░░░░░░   37.24 % 
-Other                    2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Bash                     1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-PHP                      1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-TypeScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
+Markdown                 3 hrs 7 mins        █████████████░░░░░░░░░░░░   51.31 % 
+PHP                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+TypeScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
+YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 32 mins       ████████████████████░░░░░   79.01 % 
-VS Code                  2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+Claude Code              4 hrs 45 mins       ████████████████████░░░░░   78.28 % 
+VS Code                  1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
 
 🐱‍💻 Projects: 
-CreditBridge Dev         7 hrs 17 mins       ███████████████░░░░░░░░░░   60.37 % 
-creditbridge-api         2 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-creditbridge-frontend-v2 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-nira-kyc-auth-api        33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-creditbridge-scoring-engi25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+CreditBridge Dev         3 hrs 50 mins       ████████████████░░░░░░░░░   63.07 % 
+creditbridge-frontend-v2 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+creditbridge-api         37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+nira-kyc-auth-api        33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
+creditbridge-digital-lend16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
 
 💻 Operating System: 
-Mac                      12 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 36 mins (96.25%)
+⏱ AI Coding Time: 5 hrs 58 mins (98.12%)
 
-✍️ 14,963 lines written by AI, 19 lines written by hand (99.87% AI-written)
+✍️ 11,018 lines written by AI, 10 lines written by hand (99.91% AI-written)
 
-🔤 5,741,885 Input Tokens, 1,134,087 Output Tokens
+🔤 3,674,750 Input Tokens, 676,513 Output Tokens
 
-💵 $74.00 Estimated AI Cost This Week
+💵 $46.31 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 225 AI Prompts
+🧠 16 AI Sessions, 138 AI Prompts
 
-Opus                     15,262 lines        █████████████████████████   100.00 % 
+Opus                     11,317 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.87% of written lines came from AI
-📚 Verbose Prompter — average 3,858 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 0.17% of changed lines were hand-edited
+🤖 AI-Driven — 99.91% of written lines came from AI
+📚 Verbose Prompter — average 3,845 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.1% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -138,5 +138,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 28/10/2026 05:15:33 UTC
+ Last Updated on 29/10/2026 05:23:16 UTC
 <!--END_SECTION:waka-->
