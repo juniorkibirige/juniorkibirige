@@ -43,7 +43,7 @@ I enjoy the hard parts: tracking down race conditions, fixing slow queries on ta
 
 > 📦 1.1 MB Used in GitHub's Storage 
  > 
-> 🏆 1,555 Contributions in the Year 2026
+> 🏆 1,580 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -54,21 +54,21 @@ I enjoy the hard parts: tracking down race conditions, fixing slow queries on ta
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                14456 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-🌆 Daytime                45052 commits       █████████░░░░░░░░░░░░░░░░   37.71 % 
-🌃 Evening                45240 commits       █████████░░░░░░░░░░░░░░░░   37.86 % 
-🌙 Night                  14736 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+🌞 Morning                14646 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
+🌆 Daytime                45647 commits       █████████░░░░░░░░░░░░░░░░   37.75 % 
+🌃 Evening                45700 commits       █████████░░░░░░░░░░░░░░░░   37.80 % 
+🌙 Night                  14922 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   21814 commits       █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Tuesday                  19818 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
-Wednesday                28182 commits       ██████░░░░░░░░░░░░░░░░░░░   23.59 % 
-Thursday                 15279 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-Friday                   13869 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Saturday                 13199 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Sunday                   7323 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Monday                   22103 commits       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Tuesday                  20053 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
+Wednesday                28430 commits       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+Thursday                 15481 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Friday                   14022 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Saturday                 13429 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Sunday                   7397 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
 ```
 
 
@@ -78,47 +78,47 @@ Sunday                   7323 commits        ██░░░░░░░░░�
 🕑︎ Time Zone: Africa/Kampala
 
 💬 Programming Languages: 
-Markdown                 3 hrs 7 mins        █████████████░░░░░░░░░░░░   51.31 % 
-PHP                      38 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-TypeScript               36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
-Other                    35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-YAML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Markdown                 2 hrs 52 mins       █████████████░░░░░░░░░░░░   53.18 % 
+PHP                      39 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
+Other                    36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+TypeScript               32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.02 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
 
 🔥 Editors: 
-Claude Code              4 hrs 45 mins       ████████████████████░░░░░   78.28 % 
-VS Code                  1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
+Claude Code              4 hrs 26 mins       █████████████████████░░░░   82.19 % 
+VS Code                  57 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
 
 🐱‍💻 Projects: 
-CreditBridge Dev         3 hrs 50 mins       ████████████████░░░░░░░░░   63.07 % 
-creditbridge-frontend-v2 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-creditbridge-api         37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-nira-kyc-auth-api        33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-creditbridge-digital-lend16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
+CreditBridge Dev         2 hrs 53 mins       █████████████░░░░░░░░░░░░   53.60 % 
+creditbridge-frontend-v2 41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+nira-kyc-auth-api        37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+creditbridge-api         36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+nira-gateway             15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
 
 💻 Operating System: 
-Mac                      6 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 hrs 58 mins (98.12%)
+⏱ AI Coding Time: 5 hrs 21 mins (99.2%)
 
-✍️ 11,018 lines written by AI, 10 lines written by hand (99.91% AI-written)
+✍️ 10,120 lines written by AI, 2 lines written by hand (99.98% AI-written)
 
-🔤 3,674,750 Input Tokens, 676,513 Output Tokens
+🔤 3,760,462 Input Tokens, 658,317 Output Tokens
 
-💵 $46.31 Estimated AI Cost This Week
+💵 $46.07 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 138 AI Prompts
+🧠 16 AI Sessions, 136 AI Prompts
 
-Opus                     11,317 lines        █████████████████████████   100.00 % 
+Opus                     10,416 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📚 Verbose Prompter — average 3,845 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.1% of changed lines were hand-edited
+🤖 AI-Driven — 99.98% of written lines came from AI
+📚 Verbose Prompter — average 4,296 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in PHP** 
@@ -138,5 +138,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 29/10/2026 05:23:16 UTC
+ Last Updated on 30/10/2026 05:23:07 UTC
 <!--END_SECTION:waka-->
