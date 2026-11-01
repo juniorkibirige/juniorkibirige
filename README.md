@@ -51,76 +51,6 @@ I enjoy the hard parts: tracking down race conditions, fixing slow queries on ta
  > 
 > 🔑 22 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                14646 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-🌆 Daytime                45647 commits       █████████░░░░░░░░░░░░░░░░   37.75 % 
-🌃 Evening                45700 commits       █████████░░░░░░░░░░░░░░░░   37.80 % 
-🌙 Night                  14922 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   22103 commits       █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
-Tuesday                  20053 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
-Wednesday                28430 commits       ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
-Thursday                 15481 commits       ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Friday                   14022 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Saturday                 13429 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Sunday                   7397 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Africa/Kampala
-
-💬 Programming Languages: 
-Markdown                 1 hr 8 mins         █████████░░░░░░░░░░░░░░░░   35.19 % 
-PHP                      36 mins             █████░░░░░░░░░░░░░░░░░░░░   18.65 % 
-Other                    25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-TypeScript               23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Bash                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-
-🔥 Editors: 
-Claude Code              2 hrs 36 mins       ████████████████████░░░░░   79.91 % 
-VS Code                  39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
-
-🐱‍💻 Projects: 
-CreditBridge Dev         1 hr 7 mins         █████████░░░░░░░░░░░░░░░░   34.62 % 
-nira-kyc-auth-api        37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.20 % 
-creditbridge-api         30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-creditbridge-frontend-v2 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-nira-gateway             15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
-
-💻 Operating System: 
-Mac                      3 hrs 15 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 14 mins (99.53%)
-
-✍️ 10,093 lines written by AI, 2 lines written by hand (99.98% AI-written)
-
-🔤 2,813,422 Input Tokens, 573,314 Output Tokens
-
-💵 $39.20 Estimated AI Cost This Week
-
-🧠 12 AI Sessions, 101 AI Prompts
-
-Opus                     10,390 lines        █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📚 Verbose Prompter — average 4,530 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.02% of changed lines were hand-edited
-```
-
 **I Mostly Code in PHP** 
 
 ```text
@@ -138,5 +68,5 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/juniorkibirige/juniorkibirige/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 05:08:34 UTC
+ Last Updated on 01/11/2026 05:32:18 UTC
 <!--END_SECTION:waka-->
